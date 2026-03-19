@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package LogicaDeProgramacao;
+
 public class CondicionalTernaria {
     public static void main(String[] args) {
 

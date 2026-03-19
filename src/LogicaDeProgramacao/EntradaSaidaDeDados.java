@@ -1,3 +1,5 @@
+package LogicaDeProgramacao;
+
 import java.util.Scanner; // isso quer dizer que quero usar a classe Scanner no meu programa
 // ele SEMPRE tem que ficar aqui encima, é  estrutural
 

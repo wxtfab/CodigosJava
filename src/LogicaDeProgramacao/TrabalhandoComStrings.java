@@ -1,3 +1,5 @@
+package LogicaDeProgramacao;
+
 public class TrabalhandoComStrings {
     public static void main(String[] args) {
         String nome = "Fabíola";

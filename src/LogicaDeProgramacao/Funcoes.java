@@ -1,3 +1,5 @@
+package LogicaDeProgramacao;
+
 public class Funcoes {
     public static void main(String[] args) {
 
@@ -8,6 +10,7 @@ public class Funcoes {
     }
 
     public static int multiplicacao(int n1, int n2) { // quem é soma? soma é minha função que recebe dois parâmetros double e retorna double
+
         return n1 * n2; // vai retornar o parâmetro n1 + o parâmetro n2
     }
 
@@ -22,12 +25,6 @@ public class Funcoes {
 //    }
 
 
-
-
-
-
-
-
-    }
+}
 
 

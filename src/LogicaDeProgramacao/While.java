@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package LogicaDeProgramacao;
+
 public class While {
     public static void main (String[] args) {
 
