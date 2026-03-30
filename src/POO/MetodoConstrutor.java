@@ -19,11 +19,11 @@ public static void main(String[] args) {
 ////        c1.status();
 
 
-        CanetaConstrutor c1 = new CanetaConstrutor("NIC", "Amarelo", 0.5); // aqui já passei os valores direto
-        c1.status();
-
-        CanetaConstrutor c2 = new CanetaConstrutor("KKK", "Rosa", 1.5);
-        c2.status();
+//        CanetaConstrutor c1 = new CanetaConstrutor("NIC", "Amarelo", 0.5); // aqui já passei os valores direto
+//        c1.status();
+//
+//        CanetaConstrutor c2 = new CanetaConstrutor("KKK", "Rosa", 1.5);
+//        c2.status();
 
 
 

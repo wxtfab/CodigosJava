@@ -94,25 +94,5 @@ public class For {
                   } System.out.print(soma); //mostra o resultado
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
